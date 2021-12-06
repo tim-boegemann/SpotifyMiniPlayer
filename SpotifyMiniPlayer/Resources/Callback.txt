@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title>Login was successful</title>
+    </head>
+    <body>
+        <script>
+            window.addEventListener('load', function () {
+              window.close();
+            })
+        </script>
+        <strong>Registration of SpotifyMiniPlayer was successful</strong>
+    </body>
+</html>
